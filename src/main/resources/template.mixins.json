@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "meteordevelopment.addons.template.mixins",
+  "package": "osshe.osshe1.ossheclient.mixins",
   "compatibilityLevel": "JAVA_16",
   "client": [
 
